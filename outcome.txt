@@ -1,0 +1,2 @@
+# Ideas
+Increase test coverage for error handling logic
